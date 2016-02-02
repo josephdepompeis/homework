@@ -17,8 +17,8 @@ winning_token = false
 # generate random number
 randomnumber = generate_random
 
-#will be removed before submission
-puts randomnumber
+# uncomment this to test answers!
+# puts randomnumber
 
 #comparison of attempt 1 to random number
 until count == 5 || winning_token == true
